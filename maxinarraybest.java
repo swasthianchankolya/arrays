@@ -38,16 +38,7 @@ public class minimuminarray
 					System.out.println("maximum element is");
 					System.out.println(max);
 					
-					//finding min element
-					for(int element:arr)
-					{
-						if(element<min)
-						{
-							max=element;
-						}
-					}
-					System.out.println("maximum element is");
-					System.out.println(min);
+					
 					
 					
 				}
